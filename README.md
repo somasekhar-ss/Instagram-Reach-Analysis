@@ -40,4 +40,3 @@ The most important features for predicting reach were **Likes**, **Followers**, 
 
 * `[Your-Notebook-Name.ipynb]`: The main Jupyter Notebook or code file with all analysis.
 * `[Your-Dataset-Name.csv]`: The Kaggle dataset used for this project.
-* `INSTAGRAM REACH ANALYSIS.pptx`: The project presentation slides.

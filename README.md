@@ -39,4 +39,4 @@ The most important features for predicting reach were **Likes**, **Followers**, 
 ## Files in this Repository
 
 * `[Your-Notebook-Name.ipynb]`: The main Jupyter Notebook or code file with all analysis.
-* `[Your-Dataset-Name.csv]`: The Kaggle dataset used for this project.
+* `[cleaned_instagram_data.csv]`: The Kaggle dataset used for this project.

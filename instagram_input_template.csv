@@ -1,0 +1,14 @@
+# Provide sample template download
+sample_csv = """Saves,Comments,Shares,Likes,Profile Visits,Follows,Hashtag Count,Caption Length,Engagement Rate
+10,5,3,200,20,5,7,120,4.5
+2,1,1,50,10,2,3,80,2.1
+5,3,2,150,15,4,6,100,3.8
+0,0,0,20,2,0,1,40,1.2
+"""
+
+st.download_button(
+    label="📥 Download Sample CSV Template",
+    data=sample_csv,
+    file_name="instagram_input_template.csv",
+    mime="text/csv"
+)
